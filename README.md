@@ -34,41 +34,37 @@
       <td><b>Project</b></td>
       <td><b>Description</b></td>
       <td><b>Technoloiges</b></td>
-      <td><b>Info</b></td>
-      <td><b>Hosted site</b></td>
     </tr>
   </thead>
   <tbody>
      <tr>
-      <td><a href="https://github.com/samuelroywork/Master-thesis-implementation"><b>Master Thesis Implementation</b></a></td>
+      <td><a href="https://github.com/nivyz/Master-thesis-implementation"><b>Master Thesis Implementation</b></a></td>
       <td>Decentralized Application that tracks carbon footprint across automotive supply chain and payment of carbon price using blockchain </td>
       <td>Ethereum, React, Node.js, Truffle framework, web3.js, DID(SSID)</td>
-      <td><a href="https://www.youtube.com/watch?v=FgfQ_ImdZ9o"><b>-Video Demonstration</b></td>
-      <td><a href="https://cold-bush-9716.on.fleek.co/"><b>IPFS hosted link</b></td>
     </tr>
    <tr>
-      <td><a href="https://github.com/samuelroywork/DataScience-UTD"><b> Data Science Project@UTDallas</b></a></td>
+      <td><a href="https://github.com/nivyz/DataScience-UTD"><b> Data Science Project@UTDallas</b></a></td>
       <td> A jupyter notebook with data science and analytics techniques applied on two data sets.</td>
       <td>Python</td>
       <td></td>
       <td><a href=""><b></b></td>
     </tr>
         <tr>
-      <td><a href="https://github.com/samuelroywork/Conformance-Checking"><b> Conformance-Checking lab work</b></a></td>
+      <td><a href="https://github.com/nivyz/Conformance-Checking"><b> Conformance-Checking lab work</b></a></td>
       <td> Decomposing/Recomposing Alignments in the PM4Py Distributed Engine </td>
       <td>Python</td>
       <td></td>
       <td><a href=""><b></b></td>
   </tr>
     <tr>
-      <td><a href="https://github.com/samuelroywork/DPLL-SAT-solver"><b> DPLL SAT solver</b></a></td>
+      <td><a href="https://github.com/nivyz/DPLL-SAT-solver"><b> DPLL SAT solver</b></a></td>
       <td> A SAT solver for propositional logic by following the DPLL architecture. </td>
       <td>Python</td>
       <td></td>
       <td><a href=""><b></b></td>
   </tr>
    <tr>
-      <td><a href="https://github.com/samuelroywork/bachelor-thesis"><b> Bachelor Thesis</b></a></td>
+      <td><a href="https://github.com/nivyz/bachelor-thesis"><b> Bachelor Thesis</b></a></td>
       <td> Advanced Driver Assistance System</td>
       <td>Python</td>
       <td></td>
@@ -81,8 +77,8 @@
 
 
 [linkedin]: https://linkedin.com/in/samuel-roy-b10252192
-[github]: https://github.com/samuelroywork
-[website]:https://samuelroywork.github.io
+[github]: https://github.com/nivyz
+[website]:https://nivyz.github.io
 
 
 ## Git-stats:
