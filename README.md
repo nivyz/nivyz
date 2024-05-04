@@ -4,9 +4,9 @@
 
 # About me
 
-- 🚀 **Tech Enthusiast**: Based in Hamburg, diving deep into the blockchain cosmos, digital transformations, and the magic of Industry 4.0, Metaverse! 🌌
+- 🚀 **Tech Enthusiast**: Based in Bavaria, diving deep into the wireless communication, digital transformations, and the magic of Industry 4.0, Metaverse! 🌌
 
-- 🎓 **Educational Background**: M.Sc. grad from RWTH Aachen University; a software engineer by training and fueled by a passion for problem-solving – if there's a glitch, I've got the fix!.
+- 🎓 **Educational Background**: M.Sc. grad from Friedrich Alexander Universität, Erlangen; a software engineer by training and fueled by a passion for problem-solving – if there's a glitch, I've got the fix!.
 
 - 👨‍💻 **Frameworks and Skills**: I am a Backend developer proficient in Python (Flask, FastAPI) and JavaScript(Node.js (Express.js), Next.js). Worked with Hyperledger Fabric, Ethereum, Corda, Polygon, Quoroum| L-2: Chainlink| Eclipse Data Space Connector| IPFS |  AWS, Docker, Kubernetes   
 
@@ -69,8 +69,8 @@
   </tr>
    <tr>
       <td><a href="https://github.com/samuelroywork/bachelor-thesis"><b> Bachelor Thesis</b></a></td>
-      <td> Solving sparce linear system using iterative solvers on GPU for improved image reconstruction</td>
-      <td>C++</td>
+      <td> Advanced Driver Assistance System</td>
+      <td>Python</td>
       <td></td>
       <td><a href=""><b></b></td>
      </tr>
