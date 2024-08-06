@@ -57,9 +57,9 @@
       <td><a href=""><b></b></td>
   </tr>
     <tr>
-      <td><a href="https://github.com/nivyz/DPLL-SAT-solver"><b> DPLL SAT solver</b></a></td>
-      <td> A SAT solver for propositional logic by following the DPLL architecture. </td>
-      <td>Python</td>
+      <td><a href="https://github.com/nivyz/Research Project"><b> Research Project</b></a></td>
+      <td>Distance-Dependent Pilot Contamination in Cell-Free Massive MIMO </td>
+      <td>Matlab Simulation</td>
       <td></td>
       <td><a href=""><b></b></td>
   </tr>
