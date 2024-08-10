@@ -76,7 +76,7 @@
 
 
 
-[linkedin]: [https://linkedin.com/in/samuel-roy-b10252192](https://www.linkedin.com/in/nivya-rachel-cherian-85197016b/)
+[linkedin]:https://www.linkedin.com/in/nivya-rachel-cherian-85197016b/
 [github]: https://github.com/nivyz
 [website]:https://nivyz.github.io
 
