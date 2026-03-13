@@ -4,18 +4,27 @@
 
 # About me
 
-- 🚀 **Tech Enthusiast**: Based in Bavaria, diving deep into the wireless communication, digital transformations, and the magic of Industry 4.0, Metaverse! 🌌
+- 🚀 **Aspiring Data Engineer | Software Engineer**: I enjoy building systems that transform raw data into meaningful insights. My interests lie at the intersection of data engineering, IoT systems and intelligent infrastructure.
 
-- 🎓 **Educational Background**: M.Sc. grad from Friedrich Alexander Universität, Erlangen; a software engineer by training and fueled by a passion for problem-solving – if there's a glitch, I've got the fix!.
+- 🎓 **Educational Background**: M.Sc. in Information and Communication Technology from Friedrich-Alexander Universität Erlangen-Nürnberg.
 
-- 👨‍💻 **Frameworks and Skills**: I am a Backend developer proficient in Python (Flask, FastAPI) and JavaScript(Node.js (Express.js), Next.js). Worked with Hyperledger Fabric, Ethereum, Corda, Polygon, Quoroum| L-2: Chainlink| Eclipse Data Space Connector| IPFS |  AWS, Docker, Kubernetes   
+-💡 **What I Work On**:
+- Data processing across Edge and Cloud architectures  
+- Industrial IoT data pipelines  
+- Monitoring and analytics for power systems  
+- AI-based condition monitoring 
 
-- 🌈 **Interests**: Web3.0, Decentralised Identities(SSI), DeFi, NFTs, L2 Solutions, DAOs, Metaverse  
-  
-- 🎯 **2024 Objectives**: Establish a footprint in the open-source community & dive deep into cutting-edge AI innovations.
+- 🛠 **Tech Stack**
+Python | SQL |ETL Pipelines| AWS | Terraform| Power BI | MQTT | Node-RED | MATLAB | Linux | IoT Gateways | Data Analysis
 
-- 🎵 **Bonus**: Piano or guitar? Depends on the debugging mood! 🎸🎹 Stay tuned!
+🌱 **Learning**
+Data pipelines • Distributed systems • Scalable ML deployment
 
+🎯 **Goal**
+To grow as a data engineer building robust data systems for real-world applications.
+
+🎸 **Outside Tech**
+Music, debugging sessions, and exploring how technology shapes the future.
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
