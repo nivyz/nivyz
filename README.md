@@ -18,10 +18,10 @@ Python | SQL |ETL Pipelines| AWS | Terraform| Power BI | MQTT | Node-RED | MATLA
 🌱 **Learning**:
 Data pipelines| Distributed systems | Scalable ML deployment
 
-🎯 **Goal**
+🎯 **Goal**:
 To grow as a data engineer building robust data systems for real-world applications.
 
-🎸 **Outside Tech**
+🎸 **Outside Tech**:
 Music, debugging sessions and exploring how technology shapes the future.
 
 ## Connect with me:
