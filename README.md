@@ -1,4 +1,4 @@
-[![Untitled](https://github.com/nivyz/nivyz/blob/main/nivya.png)]
+![Untitled](https://github.com/nivyz/nivyz/blob/main/nivya.png)
 
 # About me
 
