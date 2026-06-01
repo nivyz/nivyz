@@ -67,9 +67,5 @@ Music, debugging sessions and exploring how technology shapes the future.
 [linkedin]:https://www.linkedin.com/in/nivya-rachel-cherian-85197016b/
 [github]: https://github.com/nivyz
 
-
-## Git-stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelroywork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Personal projects:
 Ongoing !!
